@@ -6,4 +6,5 @@ aws course start 15 mov
 azure course start 25 nov
 google gcp start course 27 nov 
 vmware course start 17 dec 2022
+redhat bash script add
 
