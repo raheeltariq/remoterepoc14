@@ -4,3 +4,4 @@ this is line3 devops batch 14
 new line add4
 aws course start 15 mov
 azure course start 25 nov
+google gcp start course 27 nov 
