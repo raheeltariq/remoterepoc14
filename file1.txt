@@ -9,3 +9,6 @@ vmware course start 17 dec 2022
 redhat bash script add
 teredhat bash script add2
 testingfile
+redhat bash script add
+teredhat bash script add2
+testingfile3
